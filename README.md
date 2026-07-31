@@ -119,11 +119,6 @@ I build scalable web applications using React, Next.js, Vue, Nuxt, Node.js and T
   </td>
 
   <td align="center" width="100">
-    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="50" height="50" alt="Supabase" />
-    <br><sub><b>Supabase</b></sub>
-  </td>
-
-  <td align="center" width="100">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
     <br><sub><b>MongoDB</b></sub>
   </td>

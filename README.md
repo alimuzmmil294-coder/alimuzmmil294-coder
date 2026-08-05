@@ -1,7 +1,7 @@
-````markdown
+
 <div align="center">
 
-```bash
+``bash
 ╔══════════════════════════════════════════════════════════════╗
 ║                    TERMINAL SESSION START                   ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -15,7 +15,7 @@ Full-Stack Web Developer
 $ status
 Building scalable web applications...
 
-```
+``
 
 <a href="https://github.com/alimuzmmil294-coder">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=%24+whoami;Muzammil+Ali;Full-Stack+Web+Developer;Building+a+React+%26+Node.js+E-Commerce+Platform;Learning+TypeScript;Open+Source+%26+UI%2FUX+Enthusiast" />
@@ -27,7 +27,7 @@ Building scalable web applications...
 
 # ~/profile
 
-```bash
+``bash
 $ cat about.txt
 
 Current Project:
@@ -52,19 +52,19 @@ Ask Me About:
 
 Fun Fact:
   → Rubik's Cube solved in under one minute.
-```
+``
 
 ---
 
 # ~/connect
 
-```bash
+``bash
 $ ls contacts
 
 linkedin
 youtube
 email
-```
+``
 
 <p align="left">
 <a href="https://www.linkedin.com/in/muzammil-ali-824075386/">
@@ -84,7 +84,7 @@ email
 
 # ~/tech-stack
 
-```bash
+``bash
 $ tree stack
 
 stack
@@ -108,7 +108,7 @@ stack
     ├── Git
     ├── GitHub
     └── Postman
-```
+``
 
 ### Languages
 
@@ -138,7 +138,7 @@ stack
 
 # ~/analytics
 
-```bash
+``bash
 $ github stats
 
 Initializing...
@@ -147,7 +147,7 @@ Initializing...
 Repository Scan Complete.
 Contribution History Loaded.
 Language Statistics Ready.
-```
+``
 
 <p align="center">
 <img height="150" src="https://github-readme-stats.shion.dev/api?username=alimuzmmil294-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
@@ -163,12 +163,12 @@ Language Statistics Ready.
 
 # ~/achievements
 
-```bash
+``bash
 $ trophies --display
 
 Loading achievements...
 Done.
-```
+``
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=alimuzmmil294-coder&theme=radical&margin-w=5"/>
@@ -178,23 +178,19 @@ Done.
 
 # ~/visitors
 
-```bash
+``bash
 $ watch profile
 
 Visitors Counter Active...
-```
+``
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=alimuzmmil294-coder&icon=0&color=0"/>
 </p>
 
----
-
-```bash
+``bash
 $ exit
 
 Session terminated successfully.
 
 Happy Coding.
-```
-````

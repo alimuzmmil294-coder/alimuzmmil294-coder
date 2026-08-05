@@ -1,80 +1,116 @@
+````markdown
+<div align="center">
+
 ```bash
-┌──────────────────────────────────────────────────────────────┐
-│ $ whoami                                                    │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                    TERMINAL SESSION START                   ║
+╚══════════════════════════════════════════════════════════════╝
 
-Name        : Muzammil Ali
-Role        : Full-Stack Web Developer
-Status      : Building modern web applications.
-Focus       : React • Node.js • UI/UX • Open Source
+$ whoami
+Muzammil Ali
 
-> boot sequence initialized...
+$ role
+Full-Stack Web Developer
+
+$ status
+Building scalable web applications...
+
 ```
 
-<p align="center">
-  <a href="https://github.com/alimuzmmil294-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vcenter=true&width=650&lines=%24+npm+run+build-future...;Full-Stack+Web+Developer;Building+a+React+%26+Node.js+E-Commerce+App;Learning+TypeScript;Open-Source+%26+UI%2FUX+Enthusiast" />
-  </a>
-</p>
+<a href="https://github.com/alimuzmmil294-coder">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=%24+whoami;Muzammil+Ali;Full-Stack+Web+Developer;Building+a+React+%26+Node.js+E-Commerce+Platform;Learning+TypeScript;Open+Source+%26+UI%2FUX+Enthusiast" />
+</a>
+
+</div>
 
 ---
 
-# ~/developer/profile
+# ~/profile
 
-```yaml
-current_project:
-  name: Full-Stack E-Commerce Platform
-  stack:
-    - React
-    - Node.js
+```bash
+$ cat about.txt
 
-collaboration:
-  interested_in:
-    - Open Source
-    - UI/UX Accessibility
+Current Project:
+  → Full-Stack E-Commerce Platform
+    (React + Node.js)
 
-currently_learning:
-  - TypeScript
-  - AWS Cloud Practitioner
+Open to Collaborate:
+  → Open Source Projects
+  → UI/UX Accessibility
 
-looking_for_help:
-  - Advanced System Design Patterns
+Currently Learning:
+  → TypeScript
+  → AWS Cloud Practitioner
 
-ask_me_about:
-  - JavaScript
-  - CSS Grid
-  - Clean Code
+Looking For Help:
+  → Advanced System Design Patterns
 
-fun_fact:
-  - Solves a Rubik's Cube in under a minute.
+Ask Me About:
+  → JavaScript
+  → CSS Grid
+  → Clean Code
+
+Fun Fact:
+  → Rubik's Cube solved in under one minute.
 ```
 
 ---
 
-# ~/network
+# ~/connect
 
-```text
-[ LinkedIn ]
-https://www.linkedin.com/in/muzammil-ali-824075386/
+```bash
+$ ls contacts
 
-[ YouTube ]
-https://youtube.com/@BoneMystify
-
-[ Email ]
-alimuzmmil294@gmail.com
+linkedin
+youtube
+email
 ```
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/muzammil-ali-824075386/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="https://youtube.com/@BoneMystify"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
-  <a href="mailto:alimuzmmil294@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muzammil-ali-824075386/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@BoneMystify">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
+</a>
+
+<a href="mailto:alimuzmmil294@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-# ~/stack
+# ~/tech-stack
 
-## Languages
+```bash
+$ tree stack
+
+stack
+├── Languages
+│   ├── C++
+│   ├── HTML5
+│   ├── CSS3
+│   ├── JavaScript
+│   └── TypeScript
+│
+├── Frontend
+│   ├── React
+│   ├── Next.js
+│   ├── Redux
+│   ├── Tailwind CSS
+│   └── Bootstrap
+│
+└── Backend
+    ├── Node.js
+    ├── Express.js
+    ├── Git
+    ├── GitHub
+    └── Postman
+```
+
+### Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -82,7 +118,7 @@ alimuzmmil294@gmail.com
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -90,7 +126,7 @@ alimuzmmil294@gmail.com
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Backend
+### Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -102,60 +138,63 @@ alimuzmmil294@gmail.com
 
 # ~/analytics
 
-```console
-$ github stats --user alimuzmmil294-coder
+```bash
+$ github stats
 
-Loading profile...
-██████████████████████████████████ 100%
+Initializing...
+██████████████████████████████ 100%
 
-✓ Repository data loaded
-✓ Contribution history loaded
-✓ Language statistics loaded
-✓ Achievement records loaded
+Repository Scan Complete.
+Contribution History Loaded.
+Language Statistics Ready.
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=alimuzmmil294-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=alimuzmmil294-coder&theme=dark&hide_border=false" height="150"/>
+<img height="150" src="https://github-readme-stats.shion.dev/api?username=alimuzmmil294-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+
+<img height="150" src="https://streak-stats.demolab.com/?user=alimuzmmil294-coder&theme=dark&hide_border=false"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alimuzmmil294-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=alimuzmmil294-coder&theme=dark&hide_border=false&layout=compact"/>
 </p>
 
 ---
 
 # ~/achievements
 
-```console
-$ trophies --show
+```bash
+$ trophies --display
 
-Fetching achievements...
+Loading achievements...
 Done.
 ```
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alimuzmmil294-coder&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alimuzmmil294-coder&theme=radical&margin-w=5"/>
 </p>
 
 ---
 
 # ~/visitors
 
-```console
+```bash
 $ watch profile
 
-Status : Online
-Tracking : Active
+Visitors Counter Active...
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alimuzmmil294-coder&icon=0&color=0"/>
+<img src="https://komarev.com/ghpvc/?username=alimuzmmil294-coder&icon=0&color=0"/>
 </p>
+
+---
 
 ```bash
 $ exit
 
-Connection closed.
-See you in the next commit.
+Session terminated successfully.
+
+Happy Coding.
 ```
+````

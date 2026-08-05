@@ -2,12 +2,12 @@
 
 # Muzammil Ali
 
-<p>
-Building modern web experiences with React, Node.js & TypeScript.
-</p>
+Full-Stack Web Developer
+
+Building modern web applications with React, Node.js, and TypeScript.
 
 <a href="https://github.com/alimuzmmil294-coder">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=0070F3&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;Building+a+React+%26+Node.js+E-Commerce+Platform;Learning+TypeScript;Open+Source+%26+UI%2FUX+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=20&pause=1200&color=6E6E73&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Building+a+React+%26+Node.js+E-Commerce+Platform;Learning+TypeScript;Open+Source+%26+UI%2FUX+Enthusiast" alt="Typing Animation"/>
 </a>
 
 </div>
@@ -16,80 +16,55 @@ Building modern web experiences with React, Node.js & TypeScript.
 
 ## About
 
+I'm currently building a full-stack E-Commerce platform using React and Node.js.
 
-Current Project
-───────────────
-Full-Stack E-Commerce Platform
-React • Node.js
+I'm interested in contributing to open-source projects, especially those focused on UI/UX accessibility.
 
-Open to Collaborate
-───────────────────
-Open Source
-UI/UX Accessibility
+At the moment, I'm learning TypeScript and preparing for the AWS Cloud Practitioner certification.
 
-Currently Learning
-──────────────────
-TypeScript
-AWS Cloud Practitioner
+I'm always happy to discuss JavaScript, CSS Grid, and writing clean, maintainable code.
 
-Looking for Help
-────────────────
-Advanced System Design Patterns
-
-Ask Me About
-────────────
-JavaScript
-CSS Grid
-Clean Code
-
-Fun Fact
-────────
-Solved a Rubik's Cube in under one minute.
+Outside of development, I enjoy solving Rubik's Cubes and can solve one in under a minute.
 
 ---
 
-## Tech Stack
+## Technologies
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap)
 
 ### Backend & Tools
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
 
 ---
 
-## GitHub Analytics
+## GitHub
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=alimuzmmil294-coder&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=alimuzmmil294-coder&theme=transparent&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=alimuzmmil294-coder&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=alimuzmmil294-coder&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=alimuzmmil294-coder&layout=compact&theme=transparent&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=alimuzmmil294-coder&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
@@ -97,9 +72,7 @@ Solved a Rubik's Cube in under one minute.
 ## Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alimuzmmil294-coder&theme=flat&no-frame=true&margin-w=10"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=alimuzmmil294-coder&theme=flat&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -125,13 +98,12 @@ Solved a Rubik's Cube in under one minute.
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=alimuzmmil294-coder&style=flat-square&color=0070F3"/>
-
+  <img src="https://komarev.com/ghpvc/?username=alimuzmmil294-coder&style=flat-square&color=6E6E73"/>
 </p>
 
 <div align="center">
 
-> *Build thoughtfully. Keep learning. Ship consistently.*
+*Less, but better.*
 
 </div>
+```

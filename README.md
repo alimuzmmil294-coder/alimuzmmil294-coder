@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/alimuzmmil294-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vcenter=true&width=550&height=50&lines=Full-Stack+Web+Developer;Building+a+React+%26+Node.js+E-Commerce+App;Learning+TypeScript+%26+AWS;Open-Source+%26+UI%2FUX+Enthusiast" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vcenter=true&width=550&height=50&lines=Full-Stack+Web+Developer;Building+a+React+%26+Node.js+E-Commerce+App;Learning+TypeScript;Open-Source+%26+UI%2FUX+Enthusiast" alt="Typing SVG Animation" />
   </a>
 </p>
 

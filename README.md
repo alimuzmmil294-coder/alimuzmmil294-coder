@@ -376,7 +376,7 @@ I leverage AI tools to accelerate development and improve code quality:
 
 I'm always interested in collaborating on impactful projects, contributing to open source, and discussing opportunities in full-stack web development.
 
-💼 **Open to:** Remote • Full-Time • Freelance • Contract
+💼 **Open to:** Remote • Full-Time • Freelance • Contract • Onsite • Hybrid
 
 <br/>
 

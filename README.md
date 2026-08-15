@@ -208,9 +208,9 @@ Data Science — Developing my academic and practical understanding through my u
 
 </div>
 
-<!-- ## � Certifications -->
+<!- ## � Certifications -->
 
-<!-- <div align="center">
+<!- <div align="center">
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
@@ -271,10 +271,18 @@ Open to entry-level roles, web development internships, and freelance opportunit
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alimuzmmil294-coder&theme=tokyo-night&hide_border=true&area=true&custom_title=Muzammil%20Ali%27s%20Contribution%20Graph" width="98%" alt="Muzammil Ali's Contribution Graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=alimuzmmil294-coder&theme=tokyo-night&hide_border=true&area=true&custom_title=Muzammil%20Ali%27s%20Contribution%20Graph"
+  width="98%"
+  alt="Muzammil Ali's Contribution Graph"
+/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/alimuzmmil294-coder/alimuzmmil294-coder/output/github-contribution-grid-snake-dark.svg" alt="Muzammil Ali's Contribution Snake" width="98%" />
+<img
+  src="https://raw.githubusercontent.com/alimuzmmil294-coder/alimuzmmil294-coder/output/github-contribution-grid-snake-dark.svg"
+  alt="Muzammil Ali's Contribution Snake"
+  width="98%"
+/>
 
 </div>

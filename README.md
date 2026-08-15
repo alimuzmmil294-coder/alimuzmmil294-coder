@@ -1,7 +1,20 @@
 <div align="center">
-  <img src="./gif.gif" alt="Developer Banner" width="600"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Muzammil+Ali+%F0%9F%91%8B;Full-Stack+Web+Developer;Data+Science+Student;React.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Building+Modern+and+Scalable+Applications" alt="Typing SVG" />
+
 </div>
 
+<h3 align="center"> Full-Stack Web Developer | Data Science Student </h3>
+
+<p align="center"> <em>A passionate Full-Stack Web Developer from Pakistan</em><br> <em>Building scalable, modern, and responsive web applications</em><br> <em>Turning ideas into high-performance digital experiences</em> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alimuzmmil294-coder&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile views" /> <img src="https://img.shields.io/github/followers/alimuzmmil294-coder?label=Followers&style=flat-square&color=3B82F6" alt="followers" /> <img src="https://img.shields.io/github/stars/alimuzmmil294-coder?label=Stars&style=flat-square&color=3B82F6" alt="stars" /> </p>
+
+<br>
+
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Developer Animation"> </div>
+
+<br>
 <h3 align="center">
   Full-Stack Web Developer, Data Science Student
 </h3>

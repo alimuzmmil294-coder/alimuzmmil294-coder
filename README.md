@@ -34,7 +34,7 @@
 
 > "Building practical solutions through data, code, and continuous learning."
 
-Motivated Data Science student at the University of Peshawar (3.84 CGPA) and dedicated Web Developer trained at Saylani Mass I.T. Training (SMIT). I am passionate about building responsive, scalable full-stack web applications and interactive digital solutions.
+Motivated Data Science student at the University of Peshawar and dedicated Web Developer trained at Saylani Mass I.T. Training (SMIT). I am passionate about building responsive, scalable full-stack web applications and interactive digital solutions.
 
 - 🔭 **Focused on:** Building modern full-stack web applications
 - 💡 **Experienced in:** RESTful API design and database modeling

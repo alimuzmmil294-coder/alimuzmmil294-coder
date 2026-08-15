@@ -2,12 +2,8 @@
   <img src="./gif.gif" alt="Developer Banner" width="600"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+I'm+Muzammil+Ali;Full-Stack+Web+Developer+%7C+Data+Science+Student;React.js+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS;Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB;Building+Modern+Applications" alt="Typing SVG" />
-</h1>
-
 <h3 align="center">
-  Full-Stack Web Developer | Data Science Student
+  Full-Stack Web Developer, Data Science Student
 </h3>
 
 <p align="center">

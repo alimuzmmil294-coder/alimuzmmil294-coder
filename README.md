@@ -79,7 +79,7 @@ Status	Availability	Primary Focus
 
 <div align="center">
 
-<a href="https://portfolio-lyart-nine-nxr0z03kch.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge" alt="Portfolio" /> </a>
+<a href="https://muzammilali.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge" alt="Portfolio" /> </a>
 
 <a href="https://raw.githubusercontent.com/alimuzmmil294-coder/resume/main/Muzammil_Ali_Resume.pdf" target="_blank"> <img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge" alt="Resume" /> </a>
 

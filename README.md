@@ -67,6 +67,10 @@ Status	Availability	Primary Focus
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=alimuzmmil294-coder&theme=tokyo-night&hide_border=true" alt="Muzammil Ali's GitHub Streak" />
+
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alimuzmmil294-coder&theme=tokyo-night&hide_border=true&area=true&custom_title=Muzammil%20Ali%27s%20Contribution%20Graph" width="98%" alt="Muzammil Ali's Contribution Graph" />
 
 <br/><br/>
